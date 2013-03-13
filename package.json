@@ -1,0 +1,21 @@
+{
+  "name": "spacebrew.js",
+  "version": "1.0.3",
+  "description": "JavaScript client library for Spacebrew, a dynamically re-routable software toolkit for choreographing interactive spaces.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Spacebrew/spacebrew.js.git"
+  },
+  "keywords": [
+    "spaces",
+    "arduino",
+    "serial",
+    "websockets"
+  ],
+  "main": "library/sb-1.0.3.js",
+  "author": "LAB at Rockwell Group",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "~0.4.25"
+  }
+}
